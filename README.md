@@ -7,7 +7,7 @@
     <img src="./comptia-data-ce.png" width="70" />
   </a>
   <a href="CREDLY_BADGE_2">
-    <img src="./badge-2.png" width="120" />
+    <img src="./sas-tar-umt-academic-specialization-in-computer-sci.png" width="70" />
   </a>
 
 </div>
